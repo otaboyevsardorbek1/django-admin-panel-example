@@ -73,3 +73,6 @@ Admin Area:
 Site Area:
 
 * Landing: ![site area](https://user-images.githubusercontent.com/24219129/68544298-cd43a780-03d2-11ea-8506-3abfa341a914.png)
+
+* 
+admin_template: https://github.com/otaboyevsardorbek1/django-admin-panel-example/
